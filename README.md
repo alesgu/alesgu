@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Alejandro Gutierrez actualmente estoy estudiando desarrollo de aplicaciones multplataforma y , estoy formando en java, html, css y SQL Dev
 
 <!--
 **alesgu/alesgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
